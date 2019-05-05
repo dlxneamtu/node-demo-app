@@ -38,6 +38,6 @@ spec:
     protocol: TCP
   selector:
     app: demo-app
-  type: ClusterIP
+  type: NodePort
 
 #trigger commit 3
